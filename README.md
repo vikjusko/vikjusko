@@ -1,3 +1,3 @@
-# Hey, I'm Viktorija! 👋🏼⌨️ #
+# Hey, I'm Viktorija! 👋🏼 #
 
 > Currently studying at the Makers Academy
