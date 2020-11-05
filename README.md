@@ -4,3 +4,5 @@
 
 <img src="https://i.ibb.co/DWFBCt5/git.png" width="40" height="40"> <img src="https://i.imgur.com/QJYna1V.png" width="40" height="40">   <img src="https://i.ibb.co/DQHgqnC/ruby.png" width="40" height="40">     <img src="https://i.ibb.co/3vsLb9v/java.png" width="75" height="40">   <img src="https://i.ibb.co/KrTJv5b/node.png" width="40" height="40">   <img src="https://i.ibb.co/Q6sSHwX/sql.jpg" width="40 height=40">    <img src="https://i.ibb.co/dPPNnqf/ruby-rails.png" width="40" height="40">    <img src="https://i.ibb.co/rf9xYj5/swift.png" width="40" height="40">  <img src="https://i.ibb.co/H2551PP/postgresq.png" widht="40" height="40"> 
 
+
+[![Victoria's github stats](https://github-readme-stats.vercel.app/api?username=vikjusko)](https://github.com/anuraghazra/github-readme-stats&hide=stars&show_icons=true)
