@@ -6,3 +6,6 @@
 
 ![Victoria's github stats](https://github-readme-stats.vercel.app/api?username=vikjusko&hide=stars&show_icons=true&theme=dark)
 
+Please get in touch with me:
+
+| [LinkedIn](linkedin.com/in/viktorijajusko) | [Gmail](vikjusko@gmail.com) | 
