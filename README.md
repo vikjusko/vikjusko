@@ -1,4 +1,4 @@
-## Hey, I'm Viktorija! 👋🏼  
+## Hey, I'm Victoria! 👋🏼  
 
 ### I am a full-stack software developer, recent graduate from Makers Academy, Europe’s leading developer bootcamp. 👩🏻‍💻!
 
