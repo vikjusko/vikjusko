@@ -1,6 +1,6 @@
 ## Hey, I'm Viktorija! 👋🏼  
 
-### I am about to finish a fully immersive, full-time developer Bootcamp at Makers in London, with the intention of starting a new career as a developer 👩🏻‍💻!
+### I am a full-stack software developer, recent graduate from Makers Academy, Europe’s leading developer bootcamp. 👩🏻‍💻!
 
 
 | [LinkedIn](https://linkedin.com/in/viktorijajusko) | 
