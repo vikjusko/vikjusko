@@ -1,6 +1,6 @@
 ## Hey, I'm Victoria! 👋🏼  
 
-### I am a full-stack software developer, recent graduate from Makers Academy, Europe’s leading developer bootcamp. 👩🏻‍💻!
+### I am a Software Engineer at Funding Circle. 👩🏻‍💻!
 
 
 | [LinkedIn](https://linkedin.com/in/viktorijajusko) | 
